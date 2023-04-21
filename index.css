@@ -1,0 +1,11 @@
+#footer {
+    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
+}
+
+footer .container .row div a {
+    color: white;
+}
+
+footer .container .row div a:hover {
+    color: rgb(214, 214, 214);
+}
