@@ -36,6 +36,10 @@
     filter: grayscale(70%);
 }
 
+#speakers .container .row img {
+    height: 45vh;
+    object-fit: cover;
+}
 #footer {
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
 }
