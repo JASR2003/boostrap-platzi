@@ -40,6 +40,11 @@
     height: 45vh;
     object-fit: cover;
 }
+
+.charla {
+    text-decoration: underline;
+}
+
 #footer {
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
 }
