@@ -60,3 +60,10 @@ footer .container .row div a {
 footer .container .row div a:hover {
     color: rgb(214, 214, 214);
 }
+
+#modalCompra {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
